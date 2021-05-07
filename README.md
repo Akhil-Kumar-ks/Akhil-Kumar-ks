@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @Akhil-Kumar-ks
-- 👀 I’m interested in .Web Development.
+- 👀 I’m interested in Web Development.
+- 👀 I know the basics oF Git.
 - 🌱 I’m currently pursuing B.E. in information Science.
 - 📫 How to reach me akhilkumarks22@gmail.com
 
